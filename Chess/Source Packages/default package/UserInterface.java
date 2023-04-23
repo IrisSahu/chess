@@ -32,7 +32,6 @@ public class UserInterface extends JPanel implements MouseListener, MouseMotionL
         y=e.getY();
         repaint();
     }
-    //
     @Override
     public void mouseDragged(MouseEvent e) {}
     @Override
